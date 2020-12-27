@@ -8,5 +8,7 @@ draw_art(str::line_color , str::background_color, int::speed) takes three arguem
 Sample test
 
 from roro import roroclass
+
 roro_instance = roroclass.roro_class()
+
 roro_instance.draw_art("#FFFFFF","#0FFFF0",4)
