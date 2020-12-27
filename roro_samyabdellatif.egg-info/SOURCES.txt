@@ -1,0 +1,8 @@
+README.md
+setup.py
+roro/__init__.py
+roro/roroclass.py
+roro_samyabdellatif.egg-info/PKG-INFO
+roro_samyabdellatif.egg-info/SOURCES.txt
+roro_samyabdellatif.egg-info/dependency_links.txt
+roro_samyabdellatif.egg-info/top_level.txt
